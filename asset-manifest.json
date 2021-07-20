@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/health-sport-nutrition/static/css/main.96643d93.chunk.css",
-    "main.js": "/health-sport-nutrition/static/js/main.4ab5db17.chunk.js",
-    "main.js.map": "/health-sport-nutrition/static/js/main.4ab5db17.chunk.js.map",
+    "main.js": "/health-sport-nutrition/static/js/main.24e11b0c.chunk.js",
+    "main.js.map": "/health-sport-nutrition/static/js/main.24e11b0c.chunk.js.map",
     "runtime-main.js": "/health-sport-nutrition/static/js/runtime-main.be78ea04.js",
     "runtime-main.js.map": "/health-sport-nutrition/static/js/runtime-main.be78ea04.js.map",
     "static/css/2.bc1c69b2.chunk.css": "/health-sport-nutrition/static/css/2.bc1c69b2.chunk.css",
@@ -11,13 +11,16 @@
     "index.html": "/health-sport-nutrition/index.html",
     "static/css/2.bc1c69b2.chunk.css.map": "/health-sport-nutrition/static/css/2.bc1c69b2.chunk.css.map",
     "static/css/main.96643d93.chunk.css.map": "/health-sport-nutrition/static/css/main.96643d93.chunk.css.map",
-    "static/js/2.7df89f8e.chunk.js.LICENSE.txt": "/health-sport-nutrition/static/js/2.7df89f8e.chunk.js.LICENSE.txt"
+    "static/js/2.7df89f8e.chunk.js.LICENSE.txt": "/health-sport-nutrition/static/js/2.7df89f8e.chunk.js.LICENSE.txt",
+    "static/media/beslenme.6d79fc0c.jpg": "/health-sport-nutrition/static/media/beslenme.6d79fc0c.jpg",
+    "static/media/sağlık.142a24e1.png": "/health-sport-nutrition/static/media/sağlık.142a24e1.png",
+    "static/media/spor.e5fdafde.png": "/health-sport-nutrition/static/media/spor.e5fdafde.png"
   },
   "entrypoints": [
     "static/js/runtime-main.be78ea04.js",
     "static/css/2.bc1c69b2.chunk.css",
     "static/js/2.7df89f8e.chunk.js",
     "static/css/main.96643d93.chunk.css",
-    "static/js/main.4ab5db17.chunk.js"
+    "static/js/main.24e11b0c.chunk.js"
   ]
 }
