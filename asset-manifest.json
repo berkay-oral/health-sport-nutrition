@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/health-sport-nutrition/static/css/main.96643d93.chunk.css",
+    "main.js": "/health-sport-nutrition/static/js/main.e840160c.chunk.js",
+    "main.js.map": "/health-sport-nutrition/static/js/main.e840160c.chunk.js.map",
+    "runtime-main.js": "/health-sport-nutrition/static/js/runtime-main.be78ea04.js",
+    "runtime-main.js.map": "/health-sport-nutrition/static/js/runtime-main.be78ea04.js.map",
+    "static/css/2.bc1c69b2.chunk.css": "/health-sport-nutrition/static/css/2.bc1c69b2.chunk.css",
+    "static/js/2.7df89f8e.chunk.js": "/health-sport-nutrition/static/js/2.7df89f8e.chunk.js",
+    "static/js/2.7df89f8e.chunk.js.map": "/health-sport-nutrition/static/js/2.7df89f8e.chunk.js.map",
+    "index.html": "/health-sport-nutrition/index.html",
+    "static/css/2.bc1c69b2.chunk.css.map": "/health-sport-nutrition/static/css/2.bc1c69b2.chunk.css.map",
+    "static/css/main.96643d93.chunk.css.map": "/health-sport-nutrition/static/css/main.96643d93.chunk.css.map",
+    "static/js/2.7df89f8e.chunk.js.LICENSE.txt": "/health-sport-nutrition/static/js/2.7df89f8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be78ea04.js",
+    "static/css/2.bc1c69b2.chunk.css",
+    "static/js/2.7df89f8e.chunk.js",
+    "static/css/main.96643d93.chunk.css",
+    "static/js/main.e840160c.chunk.js"
+  ]
+}
